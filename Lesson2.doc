@@ -1,0 +1,3 @@
+https://github.com/ganrad/k8s-springboot-data-rest
+Build and deploy a Java Springboot microservice application on Azure Kubernetes Service (AKS)
+This Springboot application demonstrates how to build and deploy a Purchase Order microservice (po-service) as a containerized application on Azure Kubernetes Service (AKS) on Microsoft Azure. The deployed microservice supports all CRUD operations on purchase orders.
